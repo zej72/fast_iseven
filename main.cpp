@@ -11,6 +11,6 @@ int main(){
 
     bool isItnotOddorisIT = isntOdd_ANDis_even(0);
 
-    return 1294444; // return some cool error that computer wouldnt expect
+    return 1294444; // return some cool error that computer wouldnt expect (just to mess with it)
 
 }
